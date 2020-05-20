@@ -1,0 +1,14 @@
+Package: AbelianSandpile
+Title: The Abelian Sandpile Model Simulator
+Version: 0.0.1
+Author: Indranil Ghosh
+Maintainer: Indranil Ghosh <indranilg49@gmail.com>
+Depends: R(>= 3.4)
+Description: A package that simulates the Abelian Sandpile Model / BTW model and helps in plotting different statistics of the model.
+License: MIT + file LICENSE
+Encoding: UTF-8
+URL:
+BugReports:
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
