@@ -7,8 +7,8 @@ Depends: R(>= 3.4)
 Description: A package that simulates the Abelian Sandpile Model / BTW model and helps in plotting different statistics of the model.
 License: MIT + file LICENSE
 Encoding: UTF-8
-URL:
-BugReports:
+URL: https://github.com/indrag49/AbelianSandpile
+BugReports: https://github.com/indrag49/AbelianSandpile/issues
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
