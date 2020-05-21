@@ -4,10 +4,10 @@
 \alias{config4}
 \title{Configure the initial state of the square lattice}
 \usage{
-config4(lattice)
+config4(Lattice)
 }
 \arguments{
-\item{lattice}{The lattice that has been initially built}
+\item{Lattice}{The lattice that has been initially built}
 }
 \description{
 Initializes the lattice, setting all its elements to be the critical value, 4

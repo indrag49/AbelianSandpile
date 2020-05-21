@@ -13,12 +13,12 @@
 #' 2) No. of avalanches vs No. of sands added to the system
 #' 3) The cumulative probability Prob(s) that an avalanche is of size greater than or equal to s, as a function of s for a lattice of a particular L value
 #'
-#' @param lattice A lattice state
+#' @param Lattice A lattice state
 #' @param n number of sand particles added to the sytem
 #' @param max_topplings number of maximum topplings allowed in the simulation
 #'
 #' @usage
-#' add_particle(lattice)
+#' event_run(Lattice, n, max_topplings)
 #'
 #' @references
 #' \url{http://indico.ictp.it/event/8644/material/3/0.pdf}\cr

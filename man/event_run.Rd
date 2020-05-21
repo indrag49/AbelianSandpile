@@ -4,14 +4,14 @@
 \alias{event_run}
 \title{Main simulation of the Abelian Sandpile (BTW) model}
 \usage{
-add_particle(lattice)
+event_run(Lattice, n, max_topplings)
 }
 \arguments{
+\item{Lattice}{A lattice state}
+
 \item{n}{number of sand particles added to the sytem}
 
 \item{max_topplings}{number of maximum topplings allowed in the simulation}
-
-\item{lattice}{A lattice state}
 }
 \description{
 This function runs the main simulation of the BTW model by taking in a particular lattice state, the total number of sand particles to be added in the simulation and the maximum number of topplings allowed. The function then plots:

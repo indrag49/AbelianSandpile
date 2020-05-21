@@ -27,5 +27,7 @@
 
 
 init <- function(L){
-  lattice <<- matrix(rep(0, len = L**2), nrow= L)
+  lattice <- NULL
+  lattice <- matrix(rep(0, len = L**2), nrow= L)
+  lattice <<- lattice
 }

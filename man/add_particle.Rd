@@ -4,10 +4,10 @@
 \alias{add_particle}
 \title{Addition of a single sand particle at a random site of the square lattice}
 \usage{
-add_particle(lattice)
+add_particle(Lattice)
 }
 \arguments{
-\item{lattice}{The configured lattice}
+\item{Lattice}{The configured lattice}
 }
 \description{
 This function randomly selects a site from the square lattice and adds a sand particle to that particular site.

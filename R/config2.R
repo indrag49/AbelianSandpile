@@ -10,10 +10,10 @@
 #' @description
 #' Initializes the lattice, setting all its elements to 1
 #'
-#' @param lattice The lattice that has been initially built
+#' @param Lattice The lattice that has been initially built
 #'
 #' @usage
-#' config2(lattice)
+#' config2(Lattice)
 #'
 #' @examples
 #' init(50)

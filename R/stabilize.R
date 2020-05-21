@@ -10,10 +10,10 @@
 #' @description
 #' After addition of a sand at a random site of the square lattice, this function checks for any unstabilities that arise. Any toppling site distributes one sand particle to each of its neighbouring site and the process is repeated parallely for any site that is unstable. This process goes on until all the sites are stable and returns the stable lattice, the total number of topplings and the total number of sand particles available in that particular lattice.
 #'
-#' @param lattice The configured lattice
+#' @param Lattice The configured lattice
 #'
 #' @usage
-#' stabilize(lattice)
+#' stabilize(Lattice)
 #'
 #' @examples
 #' init(5)

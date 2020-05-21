@@ -10,10 +10,10 @@
 #' @description
 #' Initializes the lattice, setting all its elements to be random integers from 0 to 4
 #'
-#' @param lattice The lattice that has been initially built
+#' @param Lattice The lattice that has been initially built
 #'
 #' @usage
-#' config3(lattice)
+#' config3(Lattice)
 #'
 #' @examples
 #' init(50)

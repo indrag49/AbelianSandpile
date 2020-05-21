@@ -10,10 +10,10 @@
 #' @description
 #' This function randomly selects a site from the square lattice and adds a sand particle to that particular site.
 #'
-#' @param lattice The configured lattice
+#' @param Lattice The configured lattice
 #'
 #' @usage
-#' add_particle(lattice)
+#' add_particle(Lattice)
 #'
 #' @examples
 #' init(5)

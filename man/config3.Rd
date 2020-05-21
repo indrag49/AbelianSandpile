@@ -4,10 +4,10 @@
 \alias{config3}
 \title{Configure the initial state of the square lattice}
 \usage{
-config3(lattice)
+config3(Lattice)
 }
 \arguments{
-\item{lattice}{The lattice that has been initially built}
+\item{Lattice}{The lattice that has been initially built}
 }
 \description{
 Initializes the lattice, setting all its elements to be random integers from 0 to 4

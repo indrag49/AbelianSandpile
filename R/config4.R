@@ -10,10 +10,10 @@
 #' @description
 #' Initializes the lattice, setting all its elements to be the critical value, 4
 #'
-#' @param lattice The lattice that has been initially built
+#' @param Lattice The lattice that has been initially built
 #'
 #' @usage
-#' config4(lattice)
+#' config4(Lattice)
 #'
 #' @examples
 #' init(50)
